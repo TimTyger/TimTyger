@@ -1,5 +1,5 @@
 - 👋 Hi, I am Timothy Adebo
-- 💞️ I'm open to collaboration for projects involving c#/asp.net mvc and flutter
+- 💞️ I'm open to collaboration for projects involving c#/asp.net and flutter
 -📫 You can reach me on adebortimothy@gmail.com
 
 <!---
